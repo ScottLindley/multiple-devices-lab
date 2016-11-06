@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiple Devices Lab</string>
+    <string name="question_text">Want to know what will happen in three months?</string>
+    <string name="answer_text">You will be an awesome Android developer! Just keep working hard!</string>
+    <string name="button_text">Click Me :)</string>
+</resources>
